@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukant Thombare 🎯 On a coding journey</h1>
 <img align="center" alt="coding" width="1000" src="Banner.png">
-<h3 align="center">From Classroom to Code : "Crafting interfaces, one pixel at a time ✨  Frontend Dev & Curious Learner"</h3>
+<h3 align="center">From Classroom to Code : "Crafting interfaces, one pixel at a time ✨ | Frontend Dev & Curious Learner"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukant3&label=Profile%20views&color=0e75b6&style=flat" alt="sukant3" /> </p>
 
