@@ -64,7 +64,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukant3&show_icons=true&locale=en" alt="sukant3" /></p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukant3&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sukant3&theme=default" />
 </p>
